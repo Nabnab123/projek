@@ -84,7 +84,7 @@ class SigninFragment : Fragment(), SigninContract.View {
     }
 
     private fun initDummy() {
-        etEmail.setText("jennie.kim@blackpink.com")
+        etEmail.setText("nabila300@gmail.com")
         etPassword.setText("12345678")
     }
 

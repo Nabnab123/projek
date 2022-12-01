@@ -84,7 +84,7 @@
 
         <Button
             android:id="@+id/btnSignUpNow"
-            android:text="Sign Up Now"
+            android:text="Daftar Sekarang"
             android:textAllCaps="false"
             android:layout_marginTop="24dp"
             style="@style/Button.Primary"

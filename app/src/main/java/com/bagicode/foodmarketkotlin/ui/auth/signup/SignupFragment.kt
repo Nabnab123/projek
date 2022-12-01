@@ -77,16 +77,12 @@ class SignupFragment : Fragment() {
                     .navigate(R.id.action_signup_address, bundle)
                 (activity as AuthActivity).toolbarSignUpAddress()
             }
-
-
-
-
         }
     }
 
     private fun initDummy() {
-        etFullname.setText("Jennie Kim White")
-        etEmail.setText("jennie.kim@blackpink.com")
+        etFullname.setText("Nabila Eka")
+        etEmail.setText("tugasmobile@gmail.com")
         etPassword.setText("12345678")
     }
 

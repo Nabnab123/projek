@@ -23,7 +23,7 @@
 
         <TextView
             android:id="@+id/tvName"
-            android:text="Angga Risky"
+            android:text="Nabila Maharani"
             android:layout_marginTop="6dp"
             android:layout_marginBottom="6dp"
             style="@style/TextView.PoppinsNormal18sp020202"
@@ -32,7 +32,7 @@
 
         <TextView
             android:id="@+id/tvEmail"
-            android:text="wepanda@gmail.com"
+            android:text="selenagomez@gmail.com"
             style="@style/TextView.PoppinsNormal14sp8D92A3"
             android:layout_marginBottom="26dp"
             android:layout_width="wrap_content"

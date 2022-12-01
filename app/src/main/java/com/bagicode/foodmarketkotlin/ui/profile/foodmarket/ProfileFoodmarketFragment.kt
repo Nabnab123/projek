@@ -38,13 +38,12 @@ class ProfileFoodmarketFragment : Fragment(), ProfileMenuAdapter.ItemAdapterCall
 
     fun initDataDummy() {
         menuArrayList = ArrayList()
-        menuArrayList.add(ProfileMenuModel("Rate Apps"))
         menuArrayList.add(ProfileMenuModel("Help Center"))
         menuArrayList.add(ProfileMenuModel("Privacy & Policy"))
         menuArrayList.add(ProfileMenuModel("Term & Conditions"))
     }
 
     override fun onClick(v: View, data: ProfileMenuModel) {
-        Toast.makeText(context, "ini menu yang kamu klik "+data.title, Toast.LENGTH_SHORT).show()
+        Toast.makeText(context, "Masih dalam pengembangan "+data.title, Toast.LENGTH_SHORT).show()
     }
 }

@@ -38,14 +38,11 @@ class ProfileAccountFragment : Fragment(), ProfileMenuAdapter.ItemAdapterCallbac
 
     fun initDataDummy() {
         menuArrayList = ArrayList()
-        menuArrayList.add(ProfileMenuModel("Edit Profile"))
-        menuArrayList.add(ProfileMenuModel("Home Address"))
-        menuArrayList.add(ProfileMenuModel("Security"))
-        menuArrayList.add(ProfileMenuModel("Payments"))
+
     }
 
     override fun onClick(v: View, data: ProfileMenuModel) {
-        Toast.makeText(context, "ini menu yang kamu klik "+data.title, Toast.LENGTH_SHORT).show()
+        Toast.makeText(context, "masih dalam pengembangan "+data.title, Toast.LENGTH_SHORT).show()
     }
 
 }

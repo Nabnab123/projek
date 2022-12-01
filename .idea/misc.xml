@@ -3,6 +3,33 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Lala/AndroidStudioProjects/mobiletugas/app/src/main/res/layout/activity_auth.xml" value="0.20208333333333334" />
+        <entry key="..\:/Users/Lala/AndroidStudioProjects/mobiletugas/app/src/main/res/layout/activity_detail.xml" value="0.20208333333333334" />
+        <entry key="..\:/Users/Lala/AndroidStudioProjects/mobiletugas/app/src/main/res/layout/activity_detail_orders.xml" value="0.20208333333333334" />
+        <entry key="..\:/Users/Lala/AndroidStudioProjects/mobiletugas/app/src/main/res/layout/activity_main.xml" value="0.259375" />
+        <entry key="..\:/Users/Lala/AndroidStudioProjects/mobiletugas/app/src/main/res/layout/activity_splash_screen.xml" value="0.20208333333333334" />
+        <entry key="..\:/Users/Lala/AndroidStudioProjects/mobiletugas/app/src/main/res/layout/dialog_loader.xml" value="0.259375" />
+        <entry key="..\:/Users/Lala/AndroidStudioProjects/mobiletugas/app/src/main/res/layout/fragment_detail.xml" value="0.20208333333333334" />
+        <entry key="..\:/Users/Lala/AndroidStudioProjects/mobiletugas/app/src/main/res/layout/fragment_home.xml" value="0.20208333333333334" />
+        <entry key="..\:/Users/Lala/AndroidStudioProjects/mobiletugas/app/src/main/res/layout/fragment_home_new_taste.xml" value="0.20208333333333334" />
+        <entry key="..\:/Users/Lala/AndroidStudioProjects/mobiletugas/app/src/main/res/layout/fragment_inprogress.xml" value="0.20208333333333334" />
+        <entry key="..\:/Users/Lala/AndroidStudioProjects/mobiletugas/app/src/main/res/layout/fragment_orders.xml" value="0.20208333333333334" />
+        <entry key="..\:/Users/Lala/AndroidStudioProjects/mobiletugas/app/src/main/res/layout/fragment_orders_detail.xml" value="0.20208333333333334" />
+        <entry key="..\:/Users/Lala/AndroidStudioProjects/mobiletugas/app/src/main/res/layout/fragment_pastorders.xml" value="0.259375" />
+        <entry key="..\:/Users/Lala/AndroidStudioProjects/mobiletugas/app/src/main/res/layout/fragment_payment.xml" value="0.20208333333333334" />
+        <entry key="..\:/Users/Lala/AndroidStudioProjects/mobiletugas/app/src/main/res/layout/fragment_payment_success.xml" value="0.20208333333333334" />
+        <entry key="..\:/Users/Lala/AndroidStudioProjects/mobiletugas/app/src/main/res/layout/fragment_profile.xml" value="0.20208333333333334" />
+        <entry key="..\:/Users/Lala/AndroidStudioProjects/mobiletugas/app/src/main/res/layout/fragment_profile_account.xml" value="0.20208333333333334" />
+        <entry key="..\:/Users/Lala/AndroidStudioProjects/mobiletugas/app/src/main/res/layout/fragment_signin.xml" value="0.20208333333333334" />
+        <entry key="..\:/Users/Lala/AndroidStudioProjects/mobiletugas/app/src/main/res/layout/fragment_signup.xml" value="0.20208333333333334" />
+        <entry key="..\:/Users/Lala/AndroidStudioProjects/mobiletugas/app/src/main/res/layout/fragment_signup_address.xml" value="0.259375" />
+        <entry key="..\:/Users/Lala/AndroidStudioProjects/mobiletugas/app/src/main/res/layout/fragment_signup_success.xml" value="0.1" />
+        <entry key="..\:/Users/Lala/AndroidStudioProjects/mobiletugas/app/src/main/res/layout/item_home_horizontal.xml" value="0.259375" />
+        <entry key="..\:/Users/Lala/AndroidStudioProjects/mobiletugas/app/src/main/res/layout/item_home_vertical.xml" value="0.20208333333333334" />
+        <entry key="..\:/Users/Lala/AndroidStudioProjects/mobiletugas/app/src/main/res/layout/item_inprogress.xml" value="0.20208333333333334" />
+        <entry key="..\:/Users/Lala/AndroidStudioProjects/mobiletugas/app/src/main/res/layout/item_menu_profile.xml" value="0.20208333333333334" />
+        <entry key="..\:/Users/Lala/AndroidStudioProjects/mobiletugas/app/src/main/res/layout/item_pastorders.xml" value="0.20208333333333334" />
+        <entry key="..\:/Users/Lala/AndroidStudioProjects/mobiletugas/app/src/main/res/layout/layout_toolbar.xml" value="0.259375" />
         <entry key="..\:/Users/Lala/Videos/bwafmkotlin/app/src/main/res/xml/network_security_config.xml" value="0.11614583333333334" />
       </map>
     </option>

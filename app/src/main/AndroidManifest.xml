@@ -17,6 +17,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme.noActionBar"
         android:usesCleartextTraffic="true" >
+
         <activity android:name=".ui.order.detailsorders.OrdersDetailActivity"></activity>
         <activity android:name=".ui.detail.DetailActivity"></activity>
         <activity android:name=".ui.MainActivity" />

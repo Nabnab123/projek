@@ -42,11 +42,11 @@ interface Endpoint {
                  @Field("total") total:String,
                  @Field("status") status:String) : Observable<Wrapper<CheckoutResponse>>
 
-    @GET("transaction")
+    @GET("transactions")
     fun transaction() : Observable<Wrapper<TransactionResponse>>
 
     @FormUrlEncoded
-    @POST("transaction/{id}")
+    @POST("transactions/{id}")
     fun transactionUpdate(@Path(value = "id") userId:String,
                           @Field("status") status: String): Observable<Wrapper<Any>>
 

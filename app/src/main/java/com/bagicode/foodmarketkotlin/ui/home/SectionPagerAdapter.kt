@@ -17,35 +17,27 @@ class SectionPagerAdapter(fm:FragmentManager) : FragmentPagerAdapter(fm) {
 
     override fun getPageTitle(position: Int): CharSequence? {
         return when(position) {
-            0 -> "New Taste"
-            1 -> "Popular"
-            2 -> "Recommended"
+            0 -> "Popular"
+            1 -> "Recommended"
             else -> ""
         }
     }
 
     override fun getCount(): Int {
-        return 3
+        return 2
     }
 
     override fun getItem(position: Int): Fragment {
         var fragment : Fragment
         return when(position) {
             0 -> {
-                fragment = HomeNewTasteFragment()
-                val bundle = Bundle()
-                bundle.putParcelableArrayList("data", newTasteList)
-                fragment.arguments = bundle
-                return fragment
-            }
-            1 -> {
                 fragment = HomePopularFragment()
                 val bundle = Bundle()
                 bundle.putParcelableArrayList("data", popularList)
                 fragment.arguments = bundle
                 return fragment
             }
-            2 -> {
+            1 -> {
                 fragment = HomeRecomendedFragment()
                 val bundle = Bundle()
                 bundle.putParcelableArrayList("data", recommendedList)

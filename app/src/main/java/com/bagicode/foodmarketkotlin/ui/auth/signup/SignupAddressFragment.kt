@@ -81,9 +81,9 @@ class SignupAddressFragment : Fragment(), SignupContract.View {
 
     private fun initDummy(){
         etPhoneNumber.setText("085758145632")
-        etAddress.setText("Jalan Jendelan Gajah")
-        etHouseNumber.setText("155")
-        etCity.setText("Depok")
+        etAddress.setText("Fakultas teknik")
+        etHouseNumber.setText("depan ruang dosen")
+        etCity.setText("Purbalingga")
     }
 
     override fun onRegisterSuccess(loginResponse: LoginResponse, view: View) {
